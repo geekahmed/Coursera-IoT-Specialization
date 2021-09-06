@@ -1,0 +1,41 @@
+Identify two embedded systems that are sold on the market today and analyze their interfaces.
+
+There are many embedded systems around us, I chose to write about two systems which are: MP3 Players, and Digital Watches.
+Let's start with MP3 Players:
+An MP3 player is an electronic device that can play MP3 digital audio files. It is a type of digital audio player, or portable media player. 
+Generally speaking, MP3 players are portable, employing internal or replaceable batteries and headphones, and may be connected to car and home stereos via a wireless connection such as bluetooth. Some MP3 players also include FM radio tuners.
+
+Many MP3 players can encode directly to MP3 or other digital audio format directly from a line in audio signal (radio, voice, etc.).
+
+Devices such as CD players can be connected to the MP3 player (using the USB port) in order to directly play music from the memory of the player without the use of a computer.
+
+then we transit to Digital Watches:
+
+A digital display shows the time as a number, e.g., 12:08 instead of a shorthand pointing towards the number 12 and a long hand 8/60 of the way around the dial. The digits are usually shown as a seven-segment display.
+
+
+Describe all inputs to each system and outputs from each system.
+
+MP3 Players:
+Inputs: Bluetooth, cable
+Outputs: Bluetooth, cable, speakers
+Digital Watches
+Inputs: Button
+Outputs: LED
+
+Classify the inputs and outputs based on their mode of interaction:
+
+-Visual - describing data carried by visible light
+
+-Audio - describing data carried by sound
+
+-Tactile - describing data carried by touch
+
+-Electronic - describing data encoded in electrical signals
+
+MP3 Players:
+Inputs: Bluetooth (Electronic), cable (Electronic)
+Outputs: Bluetooth (Electronic), cable (Electronic), speakers (Audio)
+Digital Watches
+Inputs: Button (Tactile)
+Outputs: LED (Visual)

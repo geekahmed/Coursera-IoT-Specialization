@@ -1,0 +1,26 @@
+Research two microcontrollers and provide information about them from their datasheets. There are several microcontroller manufacturers that you can investigate including Atmel, Microchip, Freescale, TI, etc. For each microcontroller, report the following information. (Be sure to include a link to an online reference where you found this information.)  
+
+Clock frequency
+Bitwidth of the datapath
+Size of Flash memory
+Number of pins
+Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+1-PIC16F84 microcontroller from Microchip, Clock frequency: up to 10MHz, Bitwidth of the datapath: 8-bit, Size of Flash memory: 1k word(the word here is 14-bit), Number of pins: 18 pins,  there is no ADC embedded in this microcontroller.http://web.mit.edu/rec/datasheets/PIC16F84.pdf
+
+2- Atmel atmega2560 microcontroller from AVR, Clock frequency: 16MHz, Bitwidth of the datapath: 8-bit, Size of Flash memory: 256 kb, Number of pins: 100 pins, the microcontroller has 16 channel ADC, with 10-bits of precision. https://cdn.sparkfun.com/datasheets/Components/General%20IC/2549S.pdf
+
+Research the Arduino and Raspberry Pi platforms. 
+
+Indicate if there are operating systems which can be used on each platform. If there are, list those operating systems
+State whether the operating systems are open source or not. 
+** Arduino:
+We can't use operating systems in arduino, because it is too small for this, we need more computational hardware.
+** Raspberry Pi:
+The Raspberry Pi supports several OSes and as such usually comes without one. 
+1- Raspbian: is a Debian-based engineered especially for the Raspberry Pi and it is the perfect general-purpose OS for Raspberry users. It is open-source OS.
+
+2- OSMC: is a free, simple, open-source, and easy-to-use standalone Kodi OScapable of playing virtually any media format.
+
+3- OpenELEC: is a small Linux-based JeOS(Just enough Operating System) developed from scratch to turn PCs into a Kodimedia center.
+
+4- RISC OS: is a unique open-source OS designed specifically for ARM processors by the creators of the original ARM. It is neither related to Linux nor Windows and is being maintained by a dedicated community of volunteers.
